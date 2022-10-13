@@ -11,3 +11,6 @@ body {
     font-size: 100px;
   }
   
+  span:nth-child(odd) {
+    color: blueviolet;
+  }
